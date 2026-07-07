@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Python Developer",
+    "description": "Looking for a backend developer proficient in Python and SQL.",
+    "skills": ["Python", "SQL"],
+    "salary": 85000.0
+  },
+  {
+    "title": "Frontend Engineer",
+    "description": "Need a frontend engineer experienced in React and CSS.",
+    "skills": ["React", "CSS"],
+    "salary": 90000.0
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Seeking a data scientist with strong Python, SQL, and Machine Learning skills.",
+    "skills": ["Python", "SQL", "Machine Learning"]
+  },
+  {
+    "title": "Intern Developer",
+    "description": "Looking for a junior developer to assist in Python tasks.",
+    "skills": ["Python"],
+    "salary": null
+  }
+]
