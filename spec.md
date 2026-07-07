@@ -1,4 +1,3 @@
-I want to rebuild my **Job Posting Analyzer** project from scratch in Python. Please **do not write any code yet**. First, read the specification below and produce a detailed implementation plan only.
 
 # CONTEXT
 
@@ -66,21 +65,3 @@ The project is complete when:
 9. The project can be run successfully with:
    `python main.py`
 
-# YOUR FIRST TASK
-
-Do NOT generate any code.
-
-Instead, provide a numbered implementation plan that includes:
-
-1. The complete project folder structure.
-2. The JSON structure for `sample.json`.
-3. Which classes will be created and why.
-4. Which functions will exist in `logic.py`.
-5. What `main.py` will do.
-6. How data flows through the application.
-7. Why your design avoids over-engineering.
-8. Confirmation that the import direction is:
-   `main.py → logic.py → models.py`
-9. Any assumptions you are making.
-
-Wait for my approval before writing any code.
