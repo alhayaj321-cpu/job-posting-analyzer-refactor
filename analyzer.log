@@ -1,0 +1,20 @@
+2026-07-09 16:32:34,180 INFO Starting to load job postings from 'sample.json'
+2026-07-09 16:32:34,182 INFO Loading job postings from 'sample.json'
+2026-07-09 16:32:34,185 INFO Successfully loaded 4 job postings
+2026-07-09 16:32:34,187 INFO Successfully loaded 4 job postings
+2026-07-09 16:32:34,187 INFO Starting skill frequency count
+2026-07-09 16:32:34,188 INFO Processing skills for 4 postings
+2026-07-09 16:32:34,188 INFO Starting average salary calculation
+2026-07-09 16:32:34,188 INFO Generating summary report
+2026-07-09 16:32:34,196 INFO Top skill identified: 'Python' with frequency 3
+2026-07-09 16:40:43,374 ERROR Error: JSON file 'checking.json' not found.
+2026-07-09 16:42:09,216 INFO Starting to load job postings from 'sample.json'
+2026-07-09 16:42:09,219 INFO Loading job postings from 'sample.json'
+2026-07-09 16:42:09,219 WARNING Row 1: Could not convert salary value '100k' to float; setting to None
+2026-07-09 16:42:09,220 INFO Successfully loaded 4 job postings
+2026-07-09 16:42:09,220 INFO Successfully loaded 4 job postings
+2026-07-09 16:42:09,220 INFO Starting skill frequency count
+2026-07-09 16:42:09,220 INFO Processing skills for 4 postings
+2026-07-09 16:42:09,220 INFO Starting average salary calculation
+2026-07-09 16:42:09,220 INFO Generating summary report
+2026-07-09 16:42:09,220 INFO Top skill identified: 'Python' with frequency 3
